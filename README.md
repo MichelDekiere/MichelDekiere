@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-
 <!--
 **MichelDekiere/MichelDekiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,9 +36,6 @@ Here are some ideas to get you started:
   <img height="40" align="center" alt="Michel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" height="180em" alt="Michel-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div> -->
-  
-</br>
-
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/michel-dekiere/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
