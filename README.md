@@ -46,4 +46,8 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/MichelDekiere/MichelDekiere/blob/output/github-contribution-grid-snake.svg)
  
+ ![Michel Dekiere GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelDekiere&show_icons=true&count_private=true&theme=radical) 
+<!--  # cool theme's -> radical, synthwave, tokyonight -->
+<!-- # source https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
+ 
 </div>
