@@ -46,14 +46,21 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/MichelDekiere/MichelDekiere/blob/output/github-contribution-grid-snake.svg)
 
+<!-- # source https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
+<!-- # cool theme's -> radical, synthwave, tokyonight -->
 <div align="center">
  <img align="center" height="195px" src="https://github-readme-stats-green-gamma-47.vercel.app/api?username=MichelDekiere&show_icons=true&count_private=true&theme=radical" />
  <img align="center" height="195px" src="https://github-readme-stats-green-gamma-47.vercel.app/api/top-langs/?username=MichelDekiere&layout=compact&exclude_repo=github-readme-stats&theme=radical" />
 </div>
+<br>
+<!-- # source https://github.com/DenverCoder1/github-readme-streak-stats -->
+<div align="center">
+ <img align="center" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=MichelDekiere&theme=radical" />
+</div>
 
 <!--  ![Michel Dekiere GitHub stats](https://github-readme-stats-green-gamma-47.vercel.app/api?username=MichelDekiere&show_icons=true&count_private=true&theme=radical)
-<!--  # cool theme's -> radical, synthwave, tokyonight -->
 <!-- # source https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 <!-- ![Top Langs](https://github-readme-stats-green-gamma-47.vercel.app/api/top-langs/?username=MichelDekiere&layout=compact&exclude_repo=github-readme-stats&theme=radical) -->
+<!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MichelDekiere&theme=radical) -->
 
 </div>
