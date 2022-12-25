@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 <!--  # cool theme's -> radical, synthwave, tokyonight -->
 <!-- # source https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 
-
+![Top Langs](https://github-readme-stats-green-gamma-47.vercel.app/api/top-langs/?username=MichelDekiere&layout=compact&exclude_repo=github-readme-stats&theme=radical)
  
 </div>
