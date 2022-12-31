@@ -51,4 +51,9 @@ Here are some ideas to get you started:
  <img align="center" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=MichelDekiere&theme=radical" />
 </div>
 
+<div align="center">
+ <img align="center" height="195px" src="https://github-readme-stats-green-gamma-47.vercel.app/api/top-langs/?username=MichelDekiere&layout=compact&exclude_repo=github-readme-stats,ActionCommandGame&hide=Jupyter%20Notebook&theme=radical" />
+</div>
+
+
 </div>
