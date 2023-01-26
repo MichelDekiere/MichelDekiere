@@ -30,7 +30,10 @@ Here are some ideas to get you started:
   <img height="40" align="center" alt="Michel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" height="180em" alt="Michel-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div> -->
-## Contact 
+
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&height=25&lines=Contact)](https://git.io/typing-svg)
+
 <div> 
   <a href="https://www.linkedin.com/in/michel-dekiere/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!-- <a href="https://instagram.com/michel_dekiere" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,7 +41,11 @@ Here are some ideas to get you started:
  </br>
 </br>
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&height=25&lines=Contribution%20Graph)](https://git.io/typing-svg)
+
 ![Snake animation](https://github.com/MichelDekiere/MichelDekiere/blob/output/github-contribution-grid-snake.svg)
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&height=25&lines=Stats)](https://git.io/typing-svg)
 
 <!-- # source https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 <!-- # cool theme's -> radical, synthwave, tokyonight -->
