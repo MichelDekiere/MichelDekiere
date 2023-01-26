@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="right" height="180em" alt="Michel-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div> -->
 
-
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&height=25&lines=Contact)](https://git.io/typing-svg)
 
 <div> 
