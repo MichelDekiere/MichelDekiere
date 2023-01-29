@@ -1,3 +1,8 @@
+<div align="center">
+  <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="Profile View Counter">
+</div>
+
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <!-- Contact -->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&height=25&lines=Contact)](https://git.io/typing-svg)
