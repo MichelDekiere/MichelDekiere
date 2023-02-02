@@ -29,18 +29,18 @@
   <!-- # source https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
   <!-- # cool theme's -> radical, synthwave, tokyonight -->
   <div align="center">
-   <img align="center" height="195px" src="https://github-readme-stats-green-gamma-47.vercel.app/api?username=MichelDekiere&show_icons=true&count_private=true&theme=radical" />
+   <img align="center" height="195px" src="https://github-readme-stats-green-gamma-47.vercel.app/api?username=MichelDekiere&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
   </div>
 
   <!-- Streak Stats -->
   <!-- # source https://github.com/DenverCoder1/github-readme-streak-stats -->
   <div align="center">
-   <img align="center" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=MichelDekiere&theme=radical" />
+   <img align="center" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=MichelDekiere&theme=radical" alt="Streak Stats"/>
   </div>
 
   <!-- Most Used Languages -->
   <div align="center">
-   <img align="center" height="195px" src="https://github-readme-stats-green-gamma-47.vercel.app/api/top-langs/?username=MichelDekiere&layout=compact&exclude_repo=github-readme-stats,ActionCommandGame,Datascience-for-macro-economics&hide=Jupyter%20Notebook&theme=radical" />
+   <img align="center" height="195px" src="https://github-readme-stats-green-gamma-47.vercel.app/api/top-langs/?username=MichelDekiere&layout=compact&exclude_repo=github-readme-stats,ActionCommandGame,Datascience-for-macro-economics&hide=Jupyter%20Notebook&theme=radical" alt=" Most Used Languages"/>
   </div>
  
 </details>
