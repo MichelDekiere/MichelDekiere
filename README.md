@@ -1,6 +1,6 @@
 <div align="center">
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-  <img src="https://komarev.com/ghpvc/?username=MichelDekiere&color=blueviolet&label=Visitors" alt="Profile View Counter">
+<!--   <img src="https://komarev.com/ghpvc/?username=MichelDekiere&color=blueviolet&label=Visitors" alt="Profile View Counter"> -->
 </div>
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
