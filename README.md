@@ -15,10 +15,11 @@
 </br>
 
 <!-- Contribution Graph -->
+<!--
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&height=25&lines=Contribution%20Graph)](https://git.io/typing-svg)
 
 ![Snake animation](https://github.com/MichelDekiere/MichelDekiere/blob/output/github-contribution-grid-snake.svg)
-
+-->
 <!-- Stats -->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&height=25&lines=Stats)](https://git.io/typing-svg)
 <details>
